@@ -190,7 +190,7 @@ CONTACT EMAIL ADDRESS
 
 Display the contact email address set in the configuration file.
 {% endcomment %}
-<p id="contact">
+<p id="margareth.gfrerer@cimonline.de">
   <strong>Contact:</strong>
   Please email
   {% if page.email %}
@@ -202,7 +202,7 @@ Display the contact email address set in the configuration file.
   ,
   {% endunless %}
   {% endif %}
-  <a href='mailto:{{email}}'>{{email}}</a>
+  <a href='mailto:{{bonnyadane@gmail.com}}'>{{email}}</a>
   {% endfor %}
   {% else %}
   to-be-announced
