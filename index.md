@@ -138,7 +138,7 @@ address.
   <strong>Where:</strong>
   {{page.address}}.
   Get directions with
-  <a href="[//maps.google.com/maps?q={{page.latitude}},{{page.longitude}}](https://goo.gl/maps/1F438Yw5EgQYqG4p8?coh=178572&entry=tt)">Google Maps</a>.
+  <a href="[//maps.google.com/maps?q={{page.latitude}},{{page.longitude}}](https://goo.gl/maps/1F438Yw5EgQYqG4p8?coh=178572&entry=tt)]">Google Maps</a>.
 </p>
 {% elsif online == "true_public" %}
 <p id="where">
